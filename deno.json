@@ -9,5 +9,11 @@
 		"indentWidth": 4,
 		"singleQuote": false,
 		"proseWrap": "preserve"
+	},
+	"publish": {
+		"include": [
+			"README.md",
+			"mod.ts"
+		]
 	}
 }
